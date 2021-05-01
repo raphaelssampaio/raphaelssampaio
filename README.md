@@ -1,8 +1,6 @@
 ### Yo! Welcome ;) 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at [Grão](https://www.grao.com.br/)
 - 🌱 I’m currently learning [Typescript](https://github.com/microsoft/TypeScript)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/raphael-ssampaio)
