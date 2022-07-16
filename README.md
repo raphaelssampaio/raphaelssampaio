@@ -1,7 +1,7 @@
 ### Yo! Welcome ;) 👋
 
 
-- 🔭 I’m currently working at [Grão](https://www.grao.com.br/)
+- 🔭 I’m currently open to work
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/raphael-ssampaio)
 
 
