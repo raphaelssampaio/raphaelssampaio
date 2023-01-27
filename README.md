@@ -1,7 +1,7 @@
 ### Yo! Welcome ;) 👋
 
 
-- 🔭 I’m currently open to work
+- 🔭 I’m currently working at [ScrumLaunch](https://www.scrumlaunch.com/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/raphael-ssampaio)
 
 
