@@ -1,7 +1,7 @@
 ### Yo! Welcome ;) 👋
 
 
-- 🔭 I’m currently Open To Work
+- 🔭 Working at [AssureSoft](https://www.assuresoft.com)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/raphael-ssampaio)
 
 
