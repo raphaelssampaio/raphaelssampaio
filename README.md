@@ -1,8 +1,9 @@
 ### Yo! Welcome ;) 👋
 
 
-- 🔭 Working at [AssureSoft](https://www.assuresoft.com)
+- 🔭 Currently open to work
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/raphael-ssampaio)
+- Founder of [Klog Academy](https://www.klogacademy.com.br)
 
 
 
