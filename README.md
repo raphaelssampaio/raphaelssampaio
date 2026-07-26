@@ -1,7 +1,7 @@
 ### Yo! Welcome ;) 👋
 
 
-- 🔭 Currently open to work
+- 🔭 Working at [AgileEngine](https://agileengine.com)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/raphael-ssampaio)
 - Founder of [Klog Academy](https://www.klogacademy.com.br)
 
